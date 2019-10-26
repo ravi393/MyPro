@@ -1,8 +1,10 @@
 
 public class MyAccount {
+// 	Anjon Chutiya hai 
 	int Accno;
 	String AccN;
 	int Bal;
+	
 	public int getAccno() {
 		return Accno;
 	}
